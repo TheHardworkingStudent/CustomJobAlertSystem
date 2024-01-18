@@ -1,5 +1,5 @@
 This is a project that will give me notifications of new job listings that are internships in the following categories:
-  - software development jobs,
+  - software development jobs
   -data science jobs
   -information technology jobs
   -cybersecurity jobs
